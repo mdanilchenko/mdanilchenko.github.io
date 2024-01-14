@@ -125,4 +125,31 @@ body {
     float: right;
     font-size: 12px;
   }
+
+  .disclamer {
+    color: #f3f3f3;
+    border: 2px solid red;
+    padding: 0 10px 10px 10px;
+    border-radius: 5px;
+  }
+
+  .disclamer h3 {
+    color: red;
+  }
+
+  .disclamer a {
+    display: block;
+    cursor: pointer;
+    margin: 5px auto 0;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    width: 160px;
+    height: 40px;
+    border-radius: 25px;
+    border: 2px solid red;
+    color: red;
+    font-weight: 700;
+    background: #323234;
+  }
   
